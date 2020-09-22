@@ -1,0 +1,26 @@
+h1 {
+  font-family: 'Rockwell', Georgia';
+  font-size: 48rem;
+}
+
+h4 {
+  font-family: 'Rockwell', Georgia';
+  font-size: 16rem;
+}
+
+h6 {
+  font-family: 'Rockwell', Georgia';
+  font-size: 12rem;
+}
+
+.contact {
+  font-family: 'Copperplate', 'Georgia';
+  color: black ;
+  font-size: 24rem;
+}
+
+p {
+  font-family: 'Mongolian Baiti', 'Georgia';
+  font-size: 12rem
+}
+
