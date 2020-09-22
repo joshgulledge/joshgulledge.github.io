@@ -1,6 +1,6 @@
 h1 {
   font-family: 'Rockwell', Georgia';
-  color: white;
+  color:white;
 }
 
 h4 {
@@ -24,7 +24,7 @@ body {
   background-size: cover;
 }
 
-p {
+.guts {
   font-family: 'Mongolian Baiti', 'Georgia';
   color:white;
 }
