@@ -1,25 +1,35 @@
 h1 {
   font-family: 'Rockwell', Georgia';
-  color: black;
+  color: white;
 }
 
 h4 {
   font-family: 'Rockwell', Georgia';
-  color:black;
+  color:white;
 }
 
 h6 {
   font-family: 'Rockwell', Georgia';
+  color:white;
 }
 
 .contact {
   font-family: 'Copperplate', 'Georgia';
-  color:black ;
+  color:white ;
+  
+}
+
+body {
   background-image: url(https://cdn.spacetelescope.org/archives/images/wallpaper2/potw1924a.jpg);
   background-size: cover;
 }
 
 p {
   font-family: 'Mongolian Baiti', 'Georgia';
+  color:white;
+}
+
+ul {
+ color:white; 
 }
 
