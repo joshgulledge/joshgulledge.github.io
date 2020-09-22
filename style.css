@@ -1,11 +1,13 @@
 h1 {
   font-family: 'Rockwell', Georgia';
   font-size: 48rem;
+  color: red;
 }
 
 h4 {
   font-family: 'Rockwell', Georgia';
   font-size: 16rem;
+  color:blue;
 }
 
 h6 {
@@ -15,7 +17,7 @@ h6 {
 
 .contact {
   font-family: 'Copperplate', 'Georgia';
-  color: black ;
+  color: green ;
   font-size: 24rem;
 }
 
