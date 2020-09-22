@@ -1,17 +1,8 @@
-h1 {
-  font-family: 'Rockwell', Georgia';
+#name {
+  font-family: 'Rockwell', 'Georgia';
   color:white;
 }
 
-h4 {
-  font-family: 'Rockwell', Georgia';
-  color:white;
-}
-
-h6 {
-  font-family: 'Rockwell', Georgia';
-  color:white;
-}
 
 .contact {
   font-family: 'Copperplate', 'Georgia';
