@@ -15,6 +15,8 @@ h6 {
 .contact {
   font-family: 'Copperplate', 'Georgia';
   color:black ;
+  background-image: url(https://www.flickr.com/photos/brenda-starr/5084485739/);
+  background-size: cover;
 }
 
 p {
