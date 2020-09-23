@@ -9,18 +9,21 @@
 
 .contact {
   font-family: 'Copperplate', 'Georgia';
-}
-
-body {
-  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm15-vintagepaper-tong-017-d.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=ec92591c06acce1ccf18d99e25de0550);
-  background-size: cover;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
+body {
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm15-vintagepaper-tong-017-d.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=ec92591c06acce1ccf18d99e25de0550);
+  background-size: cover;
+}
+
 .guts {
   font-family: 'Mongolian Baiti', 'Georgia';
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 ul {
