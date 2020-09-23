@@ -1,6 +1,5 @@
 #name {
   font-family: 'Rockwell', 'Georgia';
-  color:FloralWhite;
   border: 8px solid black;
   display: flex;
   flex-wrap: wrap;
@@ -10,8 +9,6 @@
 
 .contact {
   font-family: 'Copperplate', 'Georgia';
-  color:FloralWhite ;
-  
 }
 
 body {
@@ -24,11 +21,9 @@ body {
 
 .guts {
   font-family: 'Mongolian Baiti', 'Georgia';
-  color:FloralWhite;
 }
 
 ul {
- color:FloralWhite;
  border: 4px solid black;
  padding: 20px;
  margin: 35px;
