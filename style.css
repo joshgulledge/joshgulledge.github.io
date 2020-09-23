@@ -2,7 +2,7 @@
   font-family: 'Rockwell', 'Georgia';
   color:FloralWhite;
   border: 8px solid black;
-  align-content: center;
+  justify-content: center;
 }
 
 
@@ -15,7 +15,7 @@
 body {
   background-image: url(https://www.photohdx.com/images/2016/03/old-yellow-wall-texture-background.jpg);
   background-size: cover;
-  align-content: center;
+  justify-content: center;
 }
 
 .guts {
