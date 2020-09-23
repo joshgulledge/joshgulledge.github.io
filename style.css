@@ -2,6 +2,7 @@
   font-family: 'Rockwell', 'Georgia';
   color:FloralWhite;
   border: 12px solid black;
+  align-content: center;
 }
 
 
@@ -14,6 +15,7 @@
 body {
   background-image: url(https://www.grosh.com/media/Wood-Panel-POP036.jpg);
   background-size: cover;
+  align-content: center;
 }
 
 .guts {
