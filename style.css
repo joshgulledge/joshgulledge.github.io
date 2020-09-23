@@ -1,12 +1,12 @@
 #name {
   font-family: 'Rockwell', 'Georgia';
-  color:white;
+  color:FloralWhite;
 }
 
 
 .contact {
   font-family: 'Copperplate', 'Georgia';
-  color:white ;
+  color:FloralWhite ;
   
 }
 
@@ -17,10 +17,10 @@ body {
 
 .guts {
   font-family: 'Mongolian Baiti', 'Georgia';
-  color:white;
+  color:FloralWhite;
 }
 
 ul {
- color:white; 
+ color:FloralWhite; 
 }
 
