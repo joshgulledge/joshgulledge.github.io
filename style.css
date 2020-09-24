@@ -4,6 +4,8 @@ h1 {
   display:flex;
   justify-content: center;
   padding: 45px;
+  background-image: url(https://gallery.yopriceville.com/var/albums/Backgrounds/Light_Wood_Texture_Background.jpg?m=1552260248);
+  background-size: cover;
 }
 
 
