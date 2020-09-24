@@ -5,8 +5,9 @@ h1 {
 }
 
 
-.contact {
+h2 {
   font-family: 'Copperplate', 'Georgia';
+  display:flex;
   justify-content: center;
 }
 
@@ -36,6 +37,7 @@ ul {
  margin: 35px;
  background-image: url(https://gallery.yopriceville.com/var/albums/Backgrounds/Light_Wood_Texture_Background.jpg?m=1552260248);
  background-size: cover;
+ display:flex;
  justify-content: center;
 }
 
