@@ -1,16 +1,12 @@
 h1 {
   font-family: 'Rockwell', 'Georgia';
   border: 8px solid black;
-  display: flex;
-  flex-wrap: wrap;
   justify-content: center;
 }
 
 
 .contact {
   font-family: 'Copperplate', 'Georgia';
-  display: flex;
-  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -30,8 +26,6 @@ body {
 
 .work {
   font-family: 'Mongolian Baiti', 'Georgia';
-  display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   
 }
@@ -42,8 +36,6 @@ ul {
  margin: 35px;
  background-image: url(https://gallery.yopriceville.com/var/albums/Backgrounds/Light_Wood_Texture_Background.jpg?m=1552260248);
  background-size: cover;
- display: flex;
- flex-wrap: wrap;
  justify-content: center;
 }
 
