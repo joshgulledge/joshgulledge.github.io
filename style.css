@@ -5,7 +5,13 @@ h1 {
 }
 
 
-h2 {
+h3 {
+  font-family: 'Copperplate', 'Georgia';
+  display:flex;
+  justify-content: center;
+}
+
+.contact {
   font-family: 'Copperplate', 'Georgia';
   display:flex;
   justify-content: center;
