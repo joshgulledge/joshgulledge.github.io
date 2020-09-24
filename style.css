@@ -19,7 +19,16 @@ body {
   background-size: cover;
 }
 
-.guts {
+
+.obj {
+  font-family: 'Mongolian Baiti', 'Georgia';
+  font-size: 18 px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.work {
   font-family: 'Mongolian Baiti', 'Georgia';
   display: flex;
   flex-wrap: wrap;
