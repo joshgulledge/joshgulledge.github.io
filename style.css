@@ -15,7 +15,7 @@
 }
 
 body {
-  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm15-vintagepaper-tong-017-d.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=ec92591c06acce1ccf18d99e25de0550);
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v688-kul-70-fluidbackground_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d6b8760f259c0f2a2d0cc4609d883a1e);
   background-size: cover;
 }
 
@@ -33,6 +33,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  
 }
 
 ul {
@@ -41,5 +42,8 @@ ul {
  margin: 35px;
  background-image: url(https://gallery.yopriceville.com/var/albums/Backgrounds/Light_Wood_Texture_Background.jpg?m=1552260248);
  background-size: cover;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
 }
 
