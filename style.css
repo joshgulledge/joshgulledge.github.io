@@ -1,4 +1,4 @@
-#name {
+h1 {
   font-family: 'Rockwell', 'Georgia';
   border: 8px solid black;
   display: flex;
@@ -15,7 +15,7 @@
 }
 
 body {
-  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v688-kul-70-fluidbackground_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d6b8760f259c0f2a2d0cc4609d883a1e);
+  background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-p-fon-17.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=807b57e60a556fbfeef4ca190937b3fb);
   background-size: cover;
 }
 
